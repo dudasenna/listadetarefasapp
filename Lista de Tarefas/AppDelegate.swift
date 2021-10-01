@@ -2,8 +2,8 @@
 //  AppDelegate.swift
 //  Lista de Tarefas
 //
-//  Created by Jamilton  Damasceno on 18/07/17.
-//  Copyright © 2017 Curso IOS. All rights reserved.
+//  Created by Jamilton  Damasceno
+//  Copyright © Curso IOS. All rights reserved.
 //
 
 import UIKit
